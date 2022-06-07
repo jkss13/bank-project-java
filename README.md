@@ -1,2 +1,2 @@
-# bank-project-java
- Simple bank system developed using Java.
+# projeto-banco-java
+ Bank system developed during a project of sofware development at INTERDATA.
